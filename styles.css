@@ -1,0 +1,44 @@
+
+/* styles.css — estilo inspirado en el PDF Europass */
+:root{
+  --sidebar-width: 300px;
+  --accent: #86c17a;
+  --muted: #666;
+  --bg: #f7fbf9;
+  --paper: #ffffff;
+  --text: #222;
+  --maxw: 960px;
+}
+.redonda {
+  border-radius: 10%; /* Hace la imagen completamente redonda */
+  width: 140px;       /* Ajusta el tamaño */
+  height: 140px;
+  object-fit:  ;  /* Asegura que la imagen no se deforme */
+  border: 3px solid #ccc; /* Opcional: borde alrededor */
+}
+*{box-sizing:border-box;font-family: 'Segoe UI', Roboto, Arial, sans-serif;}
+body{background:var(--bg);color:var(--text);padding:24px;display:flex;justify-content:center;}
+.container{max-width:var(--maxw);width:100%;background:var(--paper);display:flex;box-shadow:0 6px 20px rgba(0,0,0,0.08);border-radius:8px;overflow:hidden;}
+.sidebar{width:var(--sidebar-width);background:linear-gradient(180deg, #f0fbf4, #e9f7ee);padding:28px;}
+.photo{width:120px;height:120px;border-radius:8px;background:linear-gradient(135deg,#dbeee0,#bfe6c9);margin:0 auto 18px;box-shadow:0 2px 6px rgba(0,0,0,0.06);}
+.name{font-size:20px;margin:0;text-align:center;color:#0a3f1f;}
+.name .surname{font-weight:600;}
+.meta{font-size:13px;color:var(--muted);text-align:center;margin-top:8px;}
+.sidebar h2{font-size:14px;margin-top:20px;color:#0a3f1f;border-bottom:2px solid rgba(0,0,0,0.04);padding-bottom:6px;}
+.contact, .skills{list-style:none;padding:0;margin:8px 0 0 0;font-size:14px;}
+.contact li{margin-bottom:8px;}
+.skills li{margin-bottom:6px;font-size:13px;color:#2f3b2f;}
+
+.content{flex:1;padding:28px 32px;}
+.content h2{color:#0a3f1f;margin-top:0;font-size:18px;}
+.profile p{line-height:1.45;color:#333;margin-bottom:12px;}
+.education .edu-item, .experience .job{margin-bottom:18px;}
+.edu-item h3, .job h3{margin:0;font-size:15px;color:#0b4a20;}
+.edu-item p, .job p{margin:6px 0;font-size:13px;color:var(--muted);}
+ul{margin:8px 0 8px 18px;color:var(--muted);}
+.footer, footer.pageinfo{text-align:center;padding:12px;color:var(--muted);font-size:12px;}
+
+@media (max-width:880px){
+  .container{flex-direction:column;}
+  .sidebar{width:100%;}
+}
