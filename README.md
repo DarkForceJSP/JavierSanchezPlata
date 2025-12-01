@@ -58,4 +58,61 @@ Zaidín-Vergeles, España
 *25/09/2023 – 18/06/2025*  
 
 **Funciones principales:**
-- Instalación y configuración de software básic
+- Instalación y configuración de software básico y de aplicación  
+- Configuración de servicios multiusuario y dispositivos compartidos  
+- Montaje y configuración de ordenadores y periféricos  
+- Diagnóstico de fallos en sistemas microinformáticos y redes  
+
+---
+
+### **B1 Inglés — Cambridge University (IML La Zubia)**  
+*01/06/2024 – 06/10/2024* — La Zubia, España  
+
+---
+
+### **Desarrollo de videojuegos**  
+**Arcan Studios**  
+*15/09/2018 – 25/06/2022* — Zaidín, España  
+➡️ https://www.arcanstudios.com/
+
+---
+
+### **ESO — IES Laurel de la Reina**  
+*15/09/2019 – 24/07/2023*  
+➡️ https://blogsaverroes.juntadeandalucia.es/ieslaureldelareina/
+
+---
+
+## 💼 **Experiencia Laboral**
+
+### **WorldMobile Ogíjares — Prácticas Técnico Informático**  
+*Ogíjares/Granada — 13/04/2024 – 25/06/2024*
+
+**Funciones:**
+- Instalación y mantenimiento de equipos informáticos  
+- Diagnóstico y reparación de incidencias  
+- Configuración de redes y soporte de conectividad  
+- Asistencia técnica a usuarios  
+- Instalación y actualización de software  
+- Documentación técnica e inventariado de equipos  
+
+---
+
+### **WorldMobile Ogíjares — Prácticas Técnico Informático**  
+*Ogíjares/Granada — 05/02/2025 – 27/03/2025*
+
+---
+
+### **EG-Datasystems — Prácticas Técnico Informático**  
+*Dellbrücker Hauptstraße 128, 51069 Köln, Alemania — 28/03/2025 – 24/06/2025*
+
+**Funciones:**
+- Montaje y mantenimiento de equipos  
+- Administración básica de Windows y Linux  
+- Configuración de redes LAN, DHCP y DNS  
+- Resolución de fallos de hardware, software y conectividad  
+- Implementación de medidas básicas de seguridad  
+- Copias de seguridad  
+- Instalación y configuración de aplicaciones web (Snipe-IT, Moodle, Synology NAS)  
+
+---
