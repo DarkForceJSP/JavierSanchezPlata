@@ -32,7 +32,7 @@ Tengo 18 años y actualmente estoy cursando el ciclo formativo de Desarrollo de 
 
 ---
 
-## 🌍 **Idiomas**
+## **Idiomas**
 - **Español:** Nativo  
 - **Inglés:**  
   - Comprensión auditiva: B2  
@@ -43,7 +43,7 @@ Tengo 18 años y actualmente estoy cursando el ciclo formativo de Desarrollo de 
 
 ---
 
-## 🎓 **Educación y Formación**
+## **Educación y Formación**
 
 ### **FPGS — Desarrollo de Aplicaciones Web**  
 **IES Zaidin Vergeles**  
