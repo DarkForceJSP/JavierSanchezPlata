@@ -1,25 +1,25 @@
 # **Currículum — Javier Sanchez Plata**
 
-## 📸 Sobre mí
+## Sobre mí
 Tengo 18 años y actualmente estoy cursando el ciclo formativo de Desarrollo de Aplicaciones Web. Siempre me ha apasionado la informática y el desarrollo de videojuegos, lo que me impulsa a seguir aprendiendo y creciendo. Me gusta trabajar en equipo, afrontar nuevos retos y mantener una actitud positiva y abierta a nuevas ideas.
 
 ---
 
-## 📇 **Datos personales**
+## **Datos personales**
 - **Nacionalidad:** Española  
 - **Fecha de nacimiento:** 03/02/2007  
 - **Género:** Masculino  
 
 ---
 
-## 📞 **Contacto**
+## **Contacto**
 - **Email:** [javiersanchezplata@gmail.com](mailto:javiersanchezplata@gmail.com)  
 - **Teléfono:** (+34) 640 580 604  
 - **Domicilio:** Calle Lino Nº5, 18140 Granada (España)
 
 ---
 
-## 🛠️ **Competencias**
+## **Competencias**
 - Montaje y mantenimiento de equipos  
 - Instalación y configuración de software  
 - Instalación de sistemas operativos, drivers y BIOS  
@@ -83,7 +83,7 @@ Zaidín-Vergeles, España
 
 ---
 
-## 💼 **Experiencia Laboral**
+## **Experiencia Laboral**
 
 ### **WorldMobile Ogíjares — Prácticas Técnico Informático**  
 *Ogíjares/Granada — 13/04/2024 – 25/06/2024*
